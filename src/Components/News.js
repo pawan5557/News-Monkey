@@ -45,10 +45,10 @@ export class News extends Component {
       totalarticles: parsedData.totalResults,
       totalPages: Math.ceil(
         parsedData.totalResults / this.state.pageSize
-      
       )
     });
     console.log(parsedData);
+    this.props.setProgress(15);
     this.props.setProgress(100);
   }
   
