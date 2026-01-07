@@ -1,3 +1,8 @@
+![Capture13](https://github.com/user-attachments/assets/d69c7b4c-7889-4ab7-872b-703ea5179715)
+![Capture12](https://github.com/user-attachments/assets/aee1edf6-f564-4451-8043-e763f0db1fef)
+![Capture14](https://github.com/user-attachments/assets/c6a36a36-5121-4add-87b2-a09c48dd49aa)
+
+
 News Monkey is a React-based news application that fetches and displays the latest top headlines using the NewsAPI. The app provides a clean, responsive UI where users can browse news articles by country and category with smooth pagination support.
 
 
